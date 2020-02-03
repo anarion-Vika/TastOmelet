@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <style name="NameFragmentOmeletStyle">
+        <item name="android:fontFamily">@font/iowan_old_style_roman</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">@dimen/dimen_text_extra_big</item>
+    </style>
+
+
+    <style name="SearchStyle">
+        <item name="android:fontFamily">@font/myriad_pro_regular</item>
+        <item name="android:textColor">@color/colorTextGeneral</item>
+        <item name="android:textColorHint">@color/colorHint</item>
+        <item name="android:textSize">@dimen/dimen_text_middle</item>
+    </style>
+
+    <style name="TitleDishStyle">
+        <item name="android:layout_width">@dimen/dimen_size_view_collapse</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/iowan_old_style_bold</item>
+        <item name="android:textColor">@color/colorTextGeneral</item>
+        <item name="android:textSize">@dimen/dimen_text_big</item>
+    </style>
+
+    <style name="DescriptionDishStyle">
+        <item name="android:layout_width">@dimen/dimen_size_view_collapse</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/iowan_old_style_roman</item>
+        <item name="android:textColor">@color/colorTextGeneral</item>
+        <item name="android:textSize">@dimen/dimen_text_small</item>
+    </style>
+
+
+
+
+
+</resources>

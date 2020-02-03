@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe labs</string>
+    <string name="receipt_title_default">Some title</string>
+    <string name="receipt_description_default">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis diam nulla. Vestibulum scelerisque lorem ac velit sagittis iaculis. Nullam hendrerit blandit libero, in pharetra dolor rhoncus iaculis. Phasellus vehicula pharetra egestas.</string>
+    <string name="hint_for_search">Search for recipes</string>
+    <string name="error_offline">You are offline</string>
+    <string name="error_response">error response</string>
+    <string name="erro_result_absent">No rusaltate for your request</string>
+</resources>
